@@ -1,0 +1,351 @@
+2019-06-21 08:28:09,743 - root - ERROR - hello!
+2019-06-21 08:28:09,744 - root - DEBUG - This is a debug message
+2019-06-21 08:28:09,746 - root - INFO - this is an info message
+2019-06-21 08:28:09,749 - root - WARNING - tbllalfhldfhd, warning.
+2019-06-21 08:50:26,888 - matplotlib.backends - DEBUG - backend module://ipykernel.pylab.backend_inline version unknown
+2019-06-21 08:50:30,105 - gensim.summarization.textcleaner - INFO - 'pattern' package found; tag filters are available for English
+2019-06-21 08:50:41,088 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,088 - gensim.corpora.dictionary - INFO - built Dictionary(83 unique tokens: ['tri', 'board', 'locomot', 'poss', 'men']...) from 12 documents (total 112 corpus positions)
+2019-06-21 08:50:41,091 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,092 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,095 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,096 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,119 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,121 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,124 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,125 - gensim.corpora.dictionary - INFO - built Dictionary(16 unique tokens: ['life', 'thing', 'film', 'wife', 'throw']...) from 2 documents (total 17 corpus positions)
+2019-06-21 08:50:41,128 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,131 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,134 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,137 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,140 - gensim.summarization.summarizer - WARNING - Please add more sentences to the text. The number of reachable nodes is below 3
+2019-06-21 08:50:41,142 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-21 08:50:41,145 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,148 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,153 - gensim.corpora.dictionary - INFO - built Dictionary(38 unique tokens: ['arriv', 'hous', 'escort', 'physic', 'believ']...) from 4 documents (total 47 corpus positions)
+2019-06-21 08:50:41,157 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,160 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,161 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,164 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,165 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,168 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,171 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-21 08:50:41,174 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,177 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,178 - gensim.corpora.dictionary - INFO - built Dictionary(21 unique tokens: ['laugh', 'stop', 'go', 'ga', 'polic']...) from 2 documents (total 22 corpus positions)
+2019-06-21 08:50:41,180 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,183 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,184 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,188 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,190 - gensim.summarization.summarizer - WARNING - Please add more sentences to the text. The number of reachable nodes is below 3
+2019-06-21 08:50:41,193 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-21 08:50:41,197 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,197 - gensim.corpora.dictionary - INFO - built Dictionary(48 unique tokens: ['tri', 'kidnap', 'find', 'parti', 'safe']...) from 11 documents (total 71 corpus positions)
+2019-06-21 08:50:41,200 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,203 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,204 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,207 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,211 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,214 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,217 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,220 - gensim.corpora.dictionary - INFO - built Dictionary(38 unique tokens: ['hous', 'kidnap', 'leav', 'rescuer', 'ruffian']...) from 7 documents (total 46 corpus positions)
+2019-06-21 08:50:41,223 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,224 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,226 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,230 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,232 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,234 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,236 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,239 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,242 - gensim.corpora.dictionary - INFO - built Dictionary(21 unique tokens: ['thief', 'moment', 'romant', 'trunk', 'leav']...) from 2 documents (total 23 corpus positions)
+2019-06-21 08:50:41,243 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,246 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,247 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,250 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,253 - gensim.summarization.summarizer - WARNING - Please add more sentences to the text. The number of reachable nodes is below 3
+2019-06-21 08:50:41,255 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-21 08:50:41,259 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,262 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,263 - gensim.corpora.dictionary - INFO - built Dictionary(30 unique tokens: ['biograph', 'western', 'reel', 'reject', 'compani']...) from 4 documents (total 38 corpus positions)
+2019-06-21 08:50:41,266 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,267 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,272 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,276 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,278 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,280 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,282 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-21 08:50:41,289 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,292 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,295 - gensim.corpora.dictionary - INFO - built Dictionary(56 unique tokens: ['scene', 'long', 'exist', 'adapt', 'enter']...) from 7 documents (total 67 corpus positions)
+2019-06-21 08:50:41,296 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,299 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,301 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,303 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,305 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,309 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,312 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,315 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,318 - gensim.corpora.dictionary - INFO - built Dictionary(40 unique tokens: ['pedro', 'poss', 'cheat', 'border', 'hide']...) from 8 documents (total 59 corpus positions)
+2019-06-21 08:50:41,319 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,322 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,323 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,326 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,328 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,332 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,336 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,338 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,341 - gensim.corpora.dictionary - INFO - built Dictionary(22 unique tokens: ['reject', 'polic', 'leav', 'confess', 'pass']...) from 2 documents (total 23 corpus positions)
+2019-06-21 08:50:41,342 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,345 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,348 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,349 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,351 - gensim.summarization.summarizer - WARNING - Please add more sentences to the text. The number of reachable nodes is below 3
+2019-06-21 08:50:41,354 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-21 08:50:41,357 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,359 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,361 - gensim.corpora.dictionary - INFO - built Dictionary(75 unique tokens: ['fasten', 'know', 'promis', 'extent', 'arriv']...) from 7 documents (total 89 corpus positions)
+2019-06-21 08:50:41,362 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,365 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,368 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,375 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,378 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,381 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,385 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,388 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,391 - gensim.corpora.dictionary - INFO - built Dictionary(34 unique tokens: ['beg', 'send', 'woman', 'tip', 'find']...) from 4 documents (total 38 corpus positions)
+2019-06-21 08:50:41,394 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,394 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,398 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,401 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,403 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,411 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,413 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-21 08:50:41,415 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,418 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,424 - gensim.corpora.dictionary - INFO - built Dictionary(26 unique tokens: ['gambl', 'debt', 'find', 'unemploi', 'farm']...) from 3 documents (total 26 corpus positions)
+2019-06-21 08:50:41,426 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,427 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,430 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,433 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,434 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,444 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,447 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-21 08:50:41,453 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,456 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,460 - gensim.corpora.dictionary - INFO - built Dictionary(59 unique tokens: ['scene', 'polic', 'find', 'rush', 'decid']...) from 7 documents (total 70 corpus positions)
+2019-06-21 08:50:41,463 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,464 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,467 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,470 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,471 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,476 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,479 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,480 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,483 - gensim.corpora.dictionary - INFO - built Dictionary(36 unique tokens: ['battl', 'keep', 'nerv', 'young', 'soldier']...) from 2 documents (total 38 corpus positions)
+2019-06-21 08:50:41,486 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,487 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,490 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,493 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,494 - gensim.summarization.summarizer - WARNING - Please add more sentences to the text. The number of reachable nodes is below 3
+2019-06-21 08:50:41,496 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-21 08:50:41,500 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-21 08:50:41,502 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,503 - gensim.corpora.dictionary - INFO - built Dictionary(23 unique tokens: ['return', 'find', 'poverti', 'land', 'construct']...) from 3 documents (total 25 corpus positions)
+2019-06-21 08:50:41,506 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-21 08:50:41,507 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,509 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,512 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,513 - gensim.summarization.summarizer - WARNING - Please add more sentences to the text. The number of reachable nodes is below 3
+2019-06-21 08:50:41,516 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-21 08:50:41,520 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,523 - gensim.corpora.dictionary - INFO - built Dictionary(58 unique tokens: ['reject', 'men', 'henri', 'proclaim', 'demolish']...) from 11 documents (total 82 corpus positions)
+2019-06-21 08:50:41,526 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,528 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,530 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,532 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,536 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,546 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,549 - gensim.corpora.dictionary - INFO - built Dictionary(244 unique tokens: ['sent', 'guis', 'knowledg', 'insert', 'hold']...) from 31 documents (total 434 corpus positions)
+2019-06-21 08:50:41,555 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,555 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,562 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,565 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,572 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 08:50:41,576 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-21 08:50:41,579 - gensim.corpora.dictionary - INFO - built Dictionary(76 unique tokens: ['stroke', 'sheep', 'exist', 'men', 'enter']...) from 10 documents (total 99 corpus positions)
+2019-06-21 08:50:41,582 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-21 08:50:41,585 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-21 08:50:41,588 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-21 08:50:41,591 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-21 08:50:41,595 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-21 21:31:40,900 - matplotlib.backends - DEBUG - backend module://ipykernel.pylab.backend_inline version unknown
+2019-06-21 22:47:02,374 - matplotlib.backends - DEBUG - backend module://ipykernel.pylab.backend_inline version unknown
+2019-06-22 18:28:19,719 - matplotlib.backends - DEBUG - backend module://ipykernel.pylab.backend_inline version unknown
+2019-06-22 23:09:38,664 - matplotlib.backends - DEBUG - backend module://ipykernel.pylab.backend_inline version unknown
+2019-06-22 23:41:28,098 - matplotlib.backends - DEBUG - backend module://ipykernel.pylab.backend_inline version unknown
+2019-06-22 23:46:22,851 - matplotlib.backends - DEBUG - backend module://ipykernel.pylab.backend_inline version unknown
+2019-06-23 08:59:47,078 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,079 - gensim.corpora.dictionary - INFO - built Dictionary(83 unique tokens: ['tri', 'board', 'locomot', 'poss', 'men']...) from 12 documents (total 112 corpus positions)
+2019-06-23 08:59:47,082 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,084 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,086 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,088 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,092 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,094 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,096 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,098 - gensim.corpora.dictionary - INFO - built Dictionary(38 unique tokens: ['arriv', 'hous', 'escort', 'physic', 'believ']...) from 4 documents (total 47 corpus positions)
+2019-06-23 08:59:47,101 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,102 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,105 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,107 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,108 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,109 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,111 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-23 08:59:47,114 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,115 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,118 - gensim.corpora.dictionary - INFO - built Dictionary(21 unique tokens: ['laugh', 'stop', 'go', 'ga', 'polic']...) from 2 documents (total 22 corpus positions)
+2019-06-23 08:59:47,121 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,122 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,125 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,127 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,128 - gensim.summarization.summarizer - WARNING - Please add more sentences to the text. The number of reachable nodes is below 3
+2019-06-23 08:59:47,131 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-23 08:59:47,137 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,138 - gensim.corpora.dictionary - INFO - built Dictionary(48 unique tokens: ['tri', 'kidnap', 'find', 'parti', 'safe']...) from 11 documents (total 71 corpus positions)
+2019-06-23 08:59:47,141 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,141 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,144 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,147 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,151 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,153 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,154 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,157 - gensim.corpora.dictionary - INFO - built Dictionary(38 unique tokens: ['hous', 'kidnap', 'leav', 'rescuer', 'ruffian']...) from 7 documents (total 46 corpus positions)
+2019-06-23 08:59:47,158 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,161 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,165 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,167 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,170 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,173 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,176 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,177 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,178 - gensim.corpora.dictionary - INFO - built Dictionary(21 unique tokens: ['thief', 'moment', 'romant', 'trunk', 'leav']...) from 2 documents (total 23 corpus positions)
+2019-06-23 08:59:47,181 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,186 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,187 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,191 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,194 - gensim.summarization.summarizer - WARNING - Please add more sentences to the text. The number of reachable nodes is below 3
+2019-06-23 08:59:47,197 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-23 08:59:47,200 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,201 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,203 - gensim.corpora.dictionary - INFO - built Dictionary(30 unique tokens: ['biograph', 'western', 'reel', 'reject', 'compani']...) from 4 documents (total 38 corpus positions)
+2019-06-23 08:59:47,207 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,207 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,210 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,211 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,213 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,217 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,219 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-23 08:59:47,226 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,227 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,230 - gensim.corpora.dictionary - INFO - built Dictionary(56 unique tokens: ['scene', 'long', 'exist', 'adapt', 'enter']...) from 7 documents (total 67 corpus positions)
+2019-06-23 08:59:47,233 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,233 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,236 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,239 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,242 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,246 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,253 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,256 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,259 - gensim.corpora.dictionary - INFO - built Dictionary(40 unique tokens: ['pedro', 'poss', 'cheat', 'border', 'hide']...) from 8 documents (total 59 corpus positions)
+2019-06-23 08:59:47,263 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,265 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,269 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,273 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,276 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,286 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,289 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,290 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,295 - gensim.corpora.dictionary - INFO - built Dictionary(22 unique tokens: ['reject', 'polic', 'leav', 'confess', 'pass']...) from 2 documents (total 23 corpus positions)
+2019-06-23 08:59:47,296 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,299 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,302 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,305 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,308 - gensim.summarization.summarizer - WARNING - Please add more sentences to the text. The number of reachable nodes is below 3
+2019-06-23 08:59:47,311 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-23 08:59:47,316 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,319 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,322 - gensim.corpora.dictionary - INFO - built Dictionary(75 unique tokens: ['fasten', 'know', 'promis', 'extent', 'arriv']...) from 7 documents (total 89 corpus positions)
+2019-06-23 08:59:47,325 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,328 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,331 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,334 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,338 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,345 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,351 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,352 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,355 - gensim.corpora.dictionary - INFO - built Dictionary(34 unique tokens: ['beg', 'send', 'woman', 'tip', 'find']...) from 4 documents (total 38 corpus positions)
+2019-06-23 08:59:47,358 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,361 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,364 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,365 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,368 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,372 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,378 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-23 08:59:47,381 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,384 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,387 - gensim.corpora.dictionary - INFO - built Dictionary(26 unique tokens: ['gambl', 'debt', 'find', 'unemploi', 'farm']...) from 3 documents (total 26 corpus positions)
+2019-06-23 08:59:47,390 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,391 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,394 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,397 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,401 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,404 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,407 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-23 08:59:47,414 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,415 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,418 - gensim.corpora.dictionary - INFO - built Dictionary(59 unique tokens: ['scene', 'polic', 'find', 'rush', 'decid']...) from 7 documents (total 70 corpus positions)
+2019-06-23 08:59:47,421 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,424 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,427 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,430 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,433 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,437 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,443 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,446 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,448 - gensim.corpora.dictionary - INFO - built Dictionary(36 unique tokens: ['battl', 'keep', 'nerv', 'young', 'soldier']...) from 2 documents (total 38 corpus positions)
+2019-06-23 08:59:47,451 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,453 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,457 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,460 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,461 - gensim.summarization.summarizer - WARNING - Please add more sentences to the text. The number of reachable nodes is below 3
+2019-06-23 08:59:47,463 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-23 08:59:47,467 - gensim.summarization.summarizer - WARNING - Input text is expected to have at least 10 sentences.
+2019-06-23 08:59:47,471 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,474 - gensim.corpora.dictionary - INFO - built Dictionary(23 unique tokens: ['return', 'find', 'poverti', 'land', 'construct']...) from 3 documents (total 25 corpus positions)
+2019-06-23 08:59:47,476 - gensim.summarization.summarizer - WARNING - Input corpus is expected to have at least 10 documents.
+2019-06-23 08:59:47,480 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,486 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,490 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,492 - gensim.summarization.summarizer - WARNING - Please add more sentences to the text. The number of reachable nodes is below 3
+2019-06-23 08:59:47,494 - gensim.summarization.summarizer - WARNING - Couldn't get relevant sentences.
+2019-06-23 08:59:47,503 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,506 - gensim.corpora.dictionary - INFO - built Dictionary(58 unique tokens: ['reject', 'men', 'henri', 'proclaim', 'demolish']...) from 11 documents (total 82 corpus positions)
+2019-06-23 08:59:47,512 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,515 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,522 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,523 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,528 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,543 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,549 - gensim.corpora.dictionary - INFO - built Dictionary(244 unique tokens: ['sent', 'guis', 'knowledg', 'insert', 'hold']...) from 31 documents (total 434 corpus positions)
+2019-06-23 08:59:47,552 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,555 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,569 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,571 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,578 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
+2019-06-23 08:59:47,586 - gensim.corpora.dictionary - INFO - adding document #0 to Dictionary(0 unique tokens: [])
+2019-06-23 08:59:47,589 - gensim.corpora.dictionary - INFO - built Dictionary(76 unique tokens: ['stroke', 'sheep', 'exist', 'men', 'enter']...) from 10 documents (total 99 corpus positions)
+2019-06-23 08:59:47,594 - gensim.summarization.summarizer - INFO - Building graph
+2019-06-23 08:59:47,595 - gensim.summarization.summarizer - INFO - Filling graph
+2019-06-23 08:59:47,598 - gensim.summarization.summarizer - INFO - Removing unreachable nodes of graph
+2019-06-23 08:59:47,604 - gensim.summarization.summarizer - INFO - Pagerank graph
+2019-06-23 08:59:47,608 - gensim.summarization.summarizer - INFO - Sorting pagerank scores
